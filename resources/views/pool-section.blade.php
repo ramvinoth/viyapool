@@ -1,3 +1,5 @@
+<div id="stake">
+<h2 class="text-4xl tracking-tight leading-10 font-extrabold pt-20 text-white text-center sm:text-5xl sm:leading-none md:text-6xl z-20">Let's mint some blocks in the pool!</h2>
 <div class="flex items-center flex-wrap relative h-screen overflow-hidden">
     <div class="seaContainer">
     <div class="submarine__container">
@@ -71,4 +73,5 @@
         </div>
     </div>
     </div>
+</div>
 </div>

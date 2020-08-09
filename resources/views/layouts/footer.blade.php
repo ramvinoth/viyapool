@@ -1,5 +1,5 @@
 <!-- footer -->
-<footer class="bg-gray-300 w-full py-6 px-4"><!-- marging just for display-->
+<footer id="join" class="bg-gray-300 w-full py-6 px-4"><!-- marging just for display-->
         <div class="px-4 pt-3 pb-4 border-b -mx-4 border-gray-400">
             <div class="max-w-xl mx-auto">
                 <h2 class="text-xl text-left inline-block font-semibold text-gray-800">Join Our Newsletter</h2>

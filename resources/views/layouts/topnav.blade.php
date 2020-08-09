@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="hidden md:block md:ml-10 md:pr-4">
-            <a href="#" class="font-medium text-white hover:text-indigo-600 transition duration-150 ease-in-out">Home</a>
+            <a href="#banner" class="font-medium text-white hover:text-indigo-600 transition duration-150 ease-in-out">Home</a>
             <a href="#feature" class="ml-8 font-medium text-white hover:text-indigo-600 transition duration-150 ease-in-out">Features</a>
             <a href="#stake" class="ml-8 font-medium text-white hover:text-indigo-600 transition duration-150 ease-in-out">Staking</a>
             <a href="#join" class="ml-8 font-medium text-white hover:text-indigo-600 transition duration-150 ease-in-out">Contact</a>
@@ -42,10 +42,10 @@
             </div>
             </div>
             <div class="px-2 pt-2 pb-3">
-            <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-indigo-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Home</a>
-            <a href="#" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-indigo-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Features</a>
-            <a href="#" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-indigo-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Staking</a>
-            <a href="#" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-indigo-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Contact</a>
+            <a href="#banner" class="block px-3 py-2 rounded-md text-base font-medium text-indigo-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Home</a>
+            <a href="#feature" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-indigo-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Features</a>
+            <a href="#stake" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-indigo-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Staking</a>
+            <a href="#join" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-indigo-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out" role="menuitem">Contact</a>
             </div>
             <div>
             <a href="#" class="block w-full px-5 py-3 text-center font-medium text-indigo-600 bg-gray-50 hover:bg-gray-100 hover:text-indigo-700 focus:outline-none focus:bg-gray-100 focus:text-indigo-700 transition duration-150 ease-in-out" role="menuitem">
