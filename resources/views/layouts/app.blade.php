@@ -16,7 +16,11 @@
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 </head>
 <body>
+    @include('layouts.topnav')
+    <section class="overflow-y-auto">
     @include('layouts.banner')
+    @include('pool-section')
+    </section>
     <div id="app">
         <main>
         </main>
