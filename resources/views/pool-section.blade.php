@@ -1,4 +1,4 @@
-<div class="flex items-center flex-wrap relative h-screen">
+<div class="flex items-center flex-wrap relative h-screen overflow-hidden">
     <div class="seaContainer">
     <div class="submarine__container">
         <div class="light"></div>

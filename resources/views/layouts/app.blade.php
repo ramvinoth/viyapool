@@ -19,7 +19,9 @@
     @include('layouts.topnav')
     <section class="overflow-y-auto">
     @include('layouts.banner')
+    @include('features')
     @include('pool-section')
+    @include('layouts.footer')
     </section>
     <div id="app">
         <main>
